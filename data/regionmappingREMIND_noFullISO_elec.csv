@@ -1,0 +1,219 @@
+X;CountryCode;RegionCode;ecoinvent
+Afghanistan;AFG;OAS;AF
+Angola;AGO;AFR;AO
+Albania;ALB;ROW;AL
+Andorra;AND;ROW;AD
+United Arab Emirates;ARE;MEA;AE
+Argentina;ARG;LAM;AR
+Armenia;ARM;MEA;AM
+American Samoa;ASM;OAS;AS
+Antigua and Barbuda;ATG;LAM;AG
+Australia;AUS;ROW;AU
+Austria;AUT;EUR;AT
+Azerbaijan;AZE;MEA;AZ
+Burundi;BDI;AFR;BI
+Belgium;BEL;EUR;BE
+Benin;BEN;AFR;BJ
+Burkina Faso;BFA;AFR;BF
+Bangladesh;BGD;OAS;BD
+Bulgaria;BGR;EUR;BG
+Bahrain;BHR;MEA;BH
+Bahamas;BHS;LAM;BS
+Bosnia and Herzegovina;BIH;ROW;BA
+Belarus;BLR;RUS;BY
+Belize;BLZ;LAM;BZ
+Bermuda;BMU;LAM;BM
+Bolivia, Plurinational State of;BOL;LAM;BO
+Brazil;BRA;LAM;BR
+Barbados;BRB;LAM;BB
+Brunei Darussalam;BRN;OAS;BN
+Bhutan;BTN;OAS;BT
+Botswana;BWA;AFR;BW
+Central African Republic;CAF;AFR;CF
+Canada;CAN;ROW;CA
+Switzerland;CHE;ROW;CH
+Chile;CHL;LAM;CL
+China;CHN;CHN;CN
+Cote d Ivoire;CIV;AFR;CI
+Cameroon;CMR;AFR;CM
+Congo, the Democratic Republic of the;COD;AFR;CD
+Congo;COG;AFR;CG
+Colombia;COL;LAM;CO
+Comoros;COM;AFR;KM
+Cape Verde;CPV;AFR;CV
+Costa Rica;CRI;LAM;CR
+Cuba;CUB;LAM;CU
+Curacao;CUW;ROW;CW
+Cayman Islands;CYM;LAM;KY
+Cyprus;CYP;EUR;CY
+Czech Republic;CZE;EUR;CZ
+Germany;DEU;EUR;DE
+Djibouti;DJI;AFR;DJ
+Dominica;DMA;LAM;DM
+Denmark;DNK;EUR;DK
+Dominican Republic;DOM;LAM;DO
+Algeria;DZA;MEA;DZ
+Ecuador;ECU;LAM;EC
+Egypt;EGY;MEA;EG
+Eritrea;ERI;AFR;ER
+Spain;ESP;EUR;ES
+Estonia;EST;EUR;EE
+Ethiopia;ETH;AFR;ET
+Finland;FIN;EUR;FI
+Fiji;FJI;OAS;FJ
+France;FRA;EUR;FR
+Faroe Islands;FRO;ROW;FO
+Micronesia, Federated States of;FSM;OAS;FM
+Gabon;GAB;AFR;GA
+United Kingdom;GBR;EUR;GB
+Georgia;GEO;MEA;GE
+Ghana;GHA;AFR;GH
+Gibraltar;GIB;EUR;GI
+Guinea;GIN;AFR;GN
+Gambia;GMB;AFR;GM
+Guinea-Bissau;GNB;AFR;GW
+Equatorial Guinea;GNQ;AFR;GQ
+Greece;GRC;EUR;GR
+Grenada;GRD;LAM;GD
+Greenland;GRL;EUR;GL
+Guatemala;GTM;LAM;GT
+Guam;GUM;OAS;GU
+Guyana;GUY;LAM;GY
+Hong Kong;HKG;CHN;HK
+Honduras;HND;LAM;HN
+Croatia;HRV;ROW;HR
+Haiti;HTI;LAM;HT
+Hungary;HUN;EUR;HU
+Indonesia;IDN;OAS;ID
+Isle of Man;IMN;ROW;IM
+India;IND;IND;IN
+Ireland;IRL;EUR;IE
+Iran, Islamic Republic of;IRN;MEA;IR
+Iraq;IRQ;MEA;IQ
+Iceland;ISL;ROW;IS
+Israel;ISR;MEA;IL
+Italy;ITA;EUR;IT
+Jamaica;JAM;LAM;JM
+Jordan;JOR;MEA;JO
+Japan;JPN;JPN;JP
+Kazakhstan;KAZ;MEA;KZ
+Kenya;KEN;AFR;KE
+Kyrgyzstan;KGZ;MEA;KG
+Cambodia;KHM;OAS;KH
+Kiribati;KIR;OAS;KI
+Saint Kitts and Nevis;KNA;LAM;KN
+Korea, Republic of;KOR;OAS;KR
+Kuwait;KWT;MEA;KW
+Lao People's Democratic Republic;LAO;OAS;LA
+Lebanon;LBN;MEA;LB
+Liberia;LBR;AFR;LR
+Libya;LBY;MEA;LY
+Saint Lucia;LCA;LAM;LC
+Liechtenstein;LIE;ROW;LI
+Sri Lanka;LKA;OAS;LK
+Lesotho;LSO;AFR;LS
+Lithuania;LTU;EUR;LT
+Luxembourg;LUX;EUR;LU
+Latvia;LVA;EUR;LV
+Macao;MAC;CHN;MO
+Saint Martin (French part);MAF;ROW;MF
+Morocco;MAR;MEA;MA
+Monaco;MCO;ROW;MC
+Moldova, Republic of;MDA;ROW;MD
+Madagascar;MDG;AFR;MG
+Maldives;MDV;OAS;MV
+Mexico;MEX;LAM;MX
+Marshall Islands;MHL;OAS;MH
+Macedonia, the former Yugoslav Republic of;MKD;ROW;MK
+Mali;MLI;AFR;ML
+Malta;MLT;EUR;MT
+Myanmar;MMR;OAS;MM
+Montenegro;MNE;EUR;ME
+Mongolia;MNG;OAS;MN
+Northern Mariana Islands;MNP;OAS;MP
+Mozambique;MOZ;AFR;MZ
+Mauritania;MRT;AFR;MR
+Mauritius;MUS;AFR;MU
+Malawi;MWI;AFR;MW
+Malaysia;MYS;OAS;MY
+Mayotte;MYT;AFR;YT
+Namibia;NAM;AFR;NA
+New Caledonia;NCL;OAS;NC
+Niger;NER;AFR;NE
+Nigeria;NGA;AFR;NG
+Nicaragua;NIC;LAM;NI
+Netherlands;NLD;EUR;NL
+Norway;NOR;ROW;NO
+Nepal;NPL;OAS;NP
+New Zealand;NZL;ROW;NZ
+Oman;OMN;MEA;OM
+Pakistan;PAK;MEA;PK
+Panama;PAN;LAM;PA
+Peru;PER;LAM;PE
+Philippines;PHL;OAS;PH
+Palau;PLW;OAS;PW
+Papua New Guinea;PNG;OAS;PG
+Poland;POL;EUR;PL
+Puerto Rico;PRI;LAM;PR
+Korea, Democratic People's Republic of;PRK;OAS;KP
+Portugal;PRT;EUR;PT
+Paraguay;PRY;LAM;PY
+Palestine, State of;PSE;MEA;PS
+French Polynesia;PYF;OAS;PF
+Qatar;QAT;MEA;QA
+Romania;ROU;EUR;RO
+Russian Federation;RUS;RUS;RU
+Rwanda;RWA;AFR;RW
+Saudi Arabia;SAU;MEA;SA
+Sudan;SDN;AFR;SD
+Senegal;SEN;AFR;SN
+Singapore;SGP;OAS;SG
+Solomon Islands;SLB;OAS;SB
+Sierra Leone;SLE;AFR;SL
+El Salvador;SLV;LAM;SV
+San Marino;SMR;ROW;SM
+Somalia;SOM;AFR;SO
+Serbia;SRB;EUR;RS
+South Sudan;SSD;ROW;SS
+Sao Tome and Principe;STP;AFR;ST
+Suriname;SUR;LAM;SR
+Slovakia;SVK;EUR;SK
+Slovenia;SVN;EUR;SI
+Sweden;SWE;EUR;SE
+Swaziland;SWZ;AFR;SZ
+Sint Maarten (Dutch part);SXM;ROW;SX
+Seychelles;SYC;AFR;SC
+Syrian Arab Republic;SYR;MEA;SY
+Turks and Caicos Islands;TCA;LAM;TC
+Chad;TCD;AFR;TD
+Togo;TGO;AFR;TG
+Thailand;THA;OAS;TH
+Tajikistan;TJK;MEA;TJ
+Turkmenistan;TKM;MEA;TM
+Timor-Leste;TLS;OAS;TL
+Tonga;TON;OAS;TO
+Trinidad and Tobago;TTO;LAM;TT
+Tunisia;TUN;MEA;TN
+Turkey;TUR;ROW;TR
+Tuvalu;TUV;OAS;TV
+Tanzania, United Republic of;TZA;AFR;TZ
+Uganda;UGA;AFR;UG
+Ukraine;UKR;ROW;UA
+Uruguay;URY;LAM;UY
+United States;USA;USA;US
+Uzbekistan;UZB;MEA;UZ
+Saint Vincent and the Grenadines;VCT;LAM;VC
+Venezuela, Bolivarian Republic of;VEN;LAM;VE
+Virgin Islands, U.S.;VIR;LAM;VI
+Viet Nam;VNM;OAS;VN
+Vanuatu;VUT;OAS;VU
+Samoa;WSM;OAS;WS
+Yemen;YEM;MEA;YE
+South Africa;ZAF;ROW;ZA
+Zambia;ZMB;AFR;ZM
+Zimbabwe;ZWE;AFR;ZW
+Global;GLO;World;RER
+Global;GLO;World;GLO
+Global;GLO;World;RAS
+Global;GLO;World;RAF
+Global;GLO;World;SAS

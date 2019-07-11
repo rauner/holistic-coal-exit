@@ -1,0 +1,219 @@
+X;CountryCode;RegionCode;ecoinvent
+Afghanistan;AFG;World;AF
+Angola;AGO;World;AO
+Albania;ALB;World;AL
+Andorra;AND;World;AD
+United Arab Emirates;ARE;World;AE
+Argentina;ARG;World;AR
+Armenia;ARM;World;AM
+American Samoa;ASM;World;AS
+Antigua and Barbuda;ATG;World;AG
+Australia;AUS;World;AU
+Austria;AUT;World;AT
+Azerbaijan;AZE;World;AZ
+Burundi;BDI;World;BI
+Belgium;BEL;World;BE
+Benin;BEN;World;BJ
+Burkina Faso;BFA;World;BF
+Bangladesh;BGD;World;BD
+Bulgaria;BGR;World;BG
+Bahrain;BHR;World;BH
+Bahamas;BHS;World;BS
+Bosnia and Herzegovina;BIH;World;BA
+Belarus;BLR;World;BY
+Belize;BLZ;World;BZ
+Bermuda;BMU;World;BM
+Bolivia, Plurinational State of;BOL;World;BO
+Brazil;BRA;World;BR
+Barbados;BRB;World;BB
+Brunei Darussalam;BRN;World;BN
+Bhutan;BTN;World;BT
+Botswana;BWA;World;BW
+Central African Republic;CAF;World;CF
+Canada;CAN;World;CA
+Switzerland;CHE;World;CH
+Chile;CHL;World;CL
+China;CHN;World;CN
+Cote d Ivoire;CIV;World;CI
+Cameroon;CMR;World;CM
+Congo, the Democratic Republic of the;COD;World;CD
+Congo;COG;World;CG
+Colombia;COL;World;CO
+Comoros;COM;World;KM
+Cape Verde;CPV;World;CV
+Costa Rica;CRI;World;CR
+Cuba;CUB;World;CU
+Curacao;CUW;World;CW
+Cayman Islands;CYM;World;KY
+Cyprus;CYP;World;CY
+Czech Republic;CZE;World;CZ
+Germany;DEU;World;DE
+Djibouti;DJI;World;DJ
+Dominica;DMA;World;DM
+Denmark;DNK;World;DK
+Dominican Republic;DOM;World;DO
+Algeria;DZA;World;DZ
+Ecuador;ECU;World;EC
+Egypt;EGY;World;EG
+Eritrea;ERI;World;ER
+Spain;ESP;World;ES
+Estonia;EST;World;EE
+Ethiopia;ETH;World;ET
+Finland;FIN;World;FI
+Fiji;FJI;World;FJ
+France;FRA;World;FR
+Faroe Islands;FRO;World;FO
+Micronesia, Federated States of;FSM;World;FM
+Gabon;GAB;World;GA
+United Kingdom;GBR;World;GB
+Georgia;GEO;World;GE
+Ghana;GHA;World;GH
+Gibraltar;GIB;World;GI
+Guinea;GIN;World;GN
+Gambia;GMB;World;GM
+Guinea-Bissau;GNB;World;GW
+Equatorial Guinea;GNQ;World;GQ
+Greece;GRC;World;GR
+Grenada;GRD;World;GD
+Greenland;GRL;World;GL
+Guatemala;GTM;World;GT
+Guam;GUM;World;GU
+Guyana;GUY;World;GY
+Hong Kong;HKG;World;HK
+Honduras;HND;World;HN
+Croatia;HRV;World;HR
+Haiti;HTI;World;HT
+Hungary;HUN;World;HU
+Indonesia;IDN;World;ID
+Isle of Man;IMN;World;IM
+India;IND;World;IN
+Ireland;IRL;World;IE
+Iran, Islamic Republic of;IRN;World;IR
+Iraq;IRQ;World;IQ
+Iceland;ISL;World;IS
+Israel;ISR;World;IL
+Italy;ITA;World;IT
+Jamaica;JAM;World;JM
+Jordan;JOR;World;JO
+Japan;JPN;World;JP
+Kazakhstan;KAZ;World;KZ
+Kenya;KEN;World;KE
+Kyrgyzstan;KGZ;World;KG
+Cambodia;KHM;World;KH
+Kiribati;KIR;World;KI
+Saint Kitts and Nevis;KNA;World;KN
+Korea, Republic of;KOR;World;KR
+Kuwait;KWT;World;KW
+Lao People's Democratic Republic;LAO;World;LA
+Lebanon;LBN;World;LB
+Liberia;LBR;World;LR
+Libya;LBY;World;LY
+Saint Lucia;LCA;World;LC
+Liechtenstein;LIE;World;LI
+Sri Lanka;LKA;World;LK
+Lesotho;LSO;World;LS
+Lithuania;LTU;World;LT
+Luxembourg;LUX;World;LU
+Latvia;LVA;World;LV
+Macao;MAC;World;MO
+Saint Martin (French part);MAF;World;MF
+Morocco;MAR;World;MA
+Monaco;MCO;World;MC
+Moldova, Republic of;MDA;World;MD
+Madagascar;MDG;World;MG
+Maldives;MDV;World;MV
+Mexico;MEX;World;MX
+Marshall Islands;MHL;World;MH
+Macedonia, the former Yugoslav Republic of;MKD;World;MK
+Mali;MLI;World;ML
+Malta;MLT;World;MT
+Myanmar;MMR;World;MM
+Montenegro;MNE;World;ME
+Mongolia;MNG;World;MN
+Northern Mariana Islands;MNP;World;MP
+Mozambique;MOZ;World;MZ
+Mauritania;MRT;World;MR
+Mauritius;MUS;World;MU
+Malawi;MWI;World;MW
+Malaysia;MYS;World;MY
+Mayotte;MYT;World;YT
+Namibia;NAM;World;NA
+New Caledonia;NCL;World;NC
+Niger;NER;World;NE
+Nigeria;NGA;World;NG
+Nicaragua;NIC;World;NI
+Netherlands;NLD;World;NL
+Norway;NOR;World;NO
+Nepal;NPL;World;NP
+New Zealand;NZL;World;NZ
+Oman;OMN;World;OM
+Pakistan;PAK;World;PK
+Panama;PAN;World;PA
+Peru;PER;World;PE
+Philippines;PHL;World;PH
+Palau;PLW;World;PW
+Papua New Guinea;PNG;World;PG
+Poland;POL;World;PL
+Puerto Rico;PRI;World;PR
+Korea, Democratic People's Republic of;PRK;World;KP
+Portugal;PRT;World;PT
+Paraguay;PRY;World;PY
+Palestine, State of;PSE;World;PS
+French Polynesia;PYF;World;PF
+Qatar;QAT;World;QA
+Romania;ROU;World;RO
+Russian Federation;RUS;World;RU
+Rwanda;RWA;World;RW
+Saudi Arabia;SAU;World;SA
+Sudan;SDN;World;SD
+Senegal;SEN;World;SN
+Singapore;SGP;World;SG
+Solomon Islands;SLB;World;SB
+Sierra Leone;SLE;World;SL
+El Salvador;SLV;World;SV
+San Marino;SMR;World;SM
+Somalia;SOM;World;SO
+Serbia;SRB;World;RS
+South Sudan;SSD;World;SS
+Sao Tome and Principe;STP;World;ST
+Suriname;SUR;World;SR
+Slovakia;SVK;World;SK
+Slovenia;SVN;World;SI
+Sweden;SWE;World;SE
+Swaziland;SWZ;World;SZ
+Sint Maarten (Dutch part);SXM;World;SX
+Seychelles;SYC;World;SC
+Syrian Arab Republic;SYR;World;SY
+Turks and Caicos Islands;TCA;World;TC
+Chad;TCD;World;TD
+Togo;TGO;World;TG
+Thailand;THA;World;TH
+Tajikistan;TJK;World;TJ
+Turkmenistan;TKM;World;TM
+Timor-Leste;TLS;World;TL
+Tonga;TON;World;TO
+Trinidad and Tobago;TTO;World;TT
+Tunisia;TUN;World;TN
+Turkey;TUR;World;TR
+Tuvalu;TUV;World;TV
+Tanzania, United Republic of;TZA;World;TZ
+Uganda;UGA;World;UG
+Ukraine;UKR;World;UA
+Uruguay;URY;World;UY
+United States;USA;World;US
+Uzbekistan;UZB;World;UZ
+Saint Vincent and the Grenadines;VCT;World;VC
+Venezuela, Bolivarian Republic of;VEN;World;VE
+Virgin Islands, U.S.;VIR;World;VI
+Viet Nam;VNM;World;VN
+Vanuatu;VUT;World;VU
+Samoa;WSM;World;WS
+Yemen;YEM;World;YE
+South Africa;ZAF;World;ZA
+Zambia;ZMB;World;ZM
+Zimbabwe;ZWE;World;ZW
+Global;GLO;World;RER
+Global;GLO;World;GLO
+Global;GLO;World;RAS
+Global;GLO;World;RAF
+Global;GLO;World;SAS

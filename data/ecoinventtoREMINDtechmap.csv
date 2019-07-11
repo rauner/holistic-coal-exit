@@ -1,0 +1,13 @@
+ecoinvent;ecoinvent_unit;REMIND;REMIND_unit;conv_unit;SE_eco_input;engine_eff;conv;;
+market for electricity;kWh;SE|Electricity;EJ;3.60E-12;-1;1;3.60E-12;;
+heat and power co-generation, biogas, gas engine;kWh;SE|Biomass;EJ;3.60E-12;-0.296108883;0.3;4.05E-11;;
+electricity production, natural gas, combined cycle power plant;kWh;SE|Gases;EJ;3.60E-12;-0.262984878;0.3;4.56E-11;;
+heat and power co-generation, biogas, gas engine;kWh;SE|Heat|Biomass;EJ;3.60E-12;-0.296108883;0.3;4.05E-11;;
+electricity production, hard coal;kWh;SE|Heat|Coal;EJ;3.60E-12;-0.402466488;0.3;2.98E-11;;
+electricity production, natural gas, combined cycle power plant;kWh;SE|Heat|Gas;EJ;3.60E-12;-0.262984878;0.3;4.56E-11;;
+electricity production, deep geothermal;kWh;SE|Heat|Geothermal;EJ;1.08E-11;-1;1;1.08E-11;;
+market for hydrogen, liquid;kg;SE|Hydrogen;EJ;1.40E-10;-1;1;1.40E-10;;
+electricity production, oil;kWh;SE|Liquids;EJ;3.60E-12;-0.23426059;0.3;5.12E-11;;
+heat and power co-generation, biogas, gas engine;kWh;SE|Solids|Biomass;EJ;3.60E-12;-0.296108883;0.3;4.05E-11;;
+electricity production, hard coal;kWh;SE|Solids|Coal;EJ;3.60E-12;-0.402466488;0.3;2.98E-11;;
+softwood forestry, mixed species, sustainable forest management;kg;SE|Solids|Traditional Biomass;EJ;1.70E-11;-1;1;1.70E-11;;
